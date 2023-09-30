@@ -7,7 +7,6 @@
 ## 🤹‍♂️ Introduction 🤹‍♂️
 안녕하세요! 백먼지입니다.<br>
 
-
 <br>
 
 
@@ -28,7 +27,7 @@
 ## :low_brightness:   GitHub Stats  :low_brightness: 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=backmunji&theme=gruvbox_light&show_icons=true"/></a>
+<img src="https://github-readme-stats.vercel.app/api?username=backmunji&theme=discord_old_blurple&show_icons=true"/></a>
 
 
 
