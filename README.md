@@ -33,6 +33,6 @@
 
 ## 🧑‍💻 My Blog 🧑‍💻
 <br>
- <a href='https://blog.naver.com/mimjinn' target='_blank'><img alt="naverblog" src="http://img.shields.io/badge/-naver-green?style=flat&logo=naver&link=[https://blog.naver.com/mimjinn](https://blog.naver.com/mimjinn)" /></a><br></br>
+ <a href='https://blog.naver.com/mimjinn' target='_blank'><img alt="naverblog" src="http://img.shields.io/badge/-naver-green?style=flat&logo=naver&link=[https://blog.naver.com/mimjinn](https://blog.naver.com/mimjinn)" /></a>
  <a href='https://skitter-selenium-bda.notion.site/22e88981d2cf4b89b9b926d631f6b7b4' target='_blank'><img alt="Notion" img alt="Notion" src="http://img.shields.io/badge/-notion-Notion?style=flat&logo=notion&link=https://www.notion.so/eb7d54c28ea645948d17a4fefb2cbeab?pvs=4" /></a>
 </div>
